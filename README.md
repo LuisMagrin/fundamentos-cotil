@@ -13,3 +13,19 @@ Atualmente estou no 1°ano de *Desenvolvimento de Sistemas* no *COTIL*.
 - Escrever redações
 - Desenhar
 - Programar
+
+## Meu primeiro programa
+
+## Meu Primeiro Programa
+
+O código abaixo é um clássico "Olá, Mundo!" em linguagem C.  
+Nele usamos a função `printf()` para mostrar uma mensagem na tela.
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
+
